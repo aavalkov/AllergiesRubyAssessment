@@ -1,4 +1,4 @@
-Allergies Scores
+Allergy Scores
 ===================
 by [Anna Valkov] (https://github.com/aavalkov)
 
